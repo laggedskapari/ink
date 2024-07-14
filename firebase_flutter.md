@@ -20,7 +20,7 @@ Now we are going to create a new directory inside `packages` called `authenticat
 
 We need `cloud_firestore`, `equatable` and `firebase_auth` dependencies for our `packages/authentication` package.
 
-<script src="https://gist.github.com/laggedskapari/14302ede3cdf3bfdaa74287e8ffea9dc.js"></script>
+[<script src="https://gist.github.com/laggedskapari/14302ede3cdf3bfdaa74287e8ffea9dc.js"></script>](https://gist.github.com/laggedskapari/a2f90e2d60ebf42d42e879c8d2bfe179)
 
 Now all we have to do is, put our package into projects's `pubspec.yaml` file under dependencies section.
 
